@@ -1,7 +1,3 @@
-Here’s a simplified version of the `README.md` for your repository:
-
----
-
 # LeetCode DSA Practice for Interviews
 
 This repository is dedicated to solving **LeetCode Data Structures and Algorithms (DSA)** problems frequently asked in technical interviews. Each solution is written with clarity and efficiency to help build a solid understanding of DSA concepts.
